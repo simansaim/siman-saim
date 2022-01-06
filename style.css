@@ -4,6 +4,13 @@ body{
 h1{
     font-size: 40px;
 }
+.title{
+    border-left: 2px solid red;
+}
+.title-text{
+    margin-left: 5px;
+
+}
 .font-color{
     color: purple;
 }
@@ -16,7 +23,7 @@ h1{
     padding-left: 10%;
 }
 .down{
-    padding-top: 90px;
+    margin-top: 90px;
 }
 .half img{
     width: 80%;
@@ -26,4 +33,34 @@ button{
     color: white;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.my-mission{
+    width: 50%;
+}
+.my-mission img{
+    width: 40%;
+}
+.section2{
+    margin-top: 150px;
+}
+.mission-padding1{
+    margin-left: 10%;
+    margin-right: 1%;
+   padding: 20px 20px;
+    background-color: rgba(238, 130, 238, 0.308);
+}
+.mission-padding2{
+    margin-left: 1%;
+    margin-right: 1%;
+    padding: 20px 20px;
+    background-color: rgba(255, 166, 0, 0.295);
+}
+.mission-padding3{
+    margin-left: 1%;
+    margin-right: 10%;
+    padding: 20px 20px;
+    background-color: rgba(250, 128, 114, 0.281);
+}
+.center{
+    text-align: center;
 }
