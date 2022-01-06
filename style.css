@@ -117,9 +117,9 @@ a{
     text-decoration: none;
 }
 footer{
-    background-color: #FEDBD7;
+    background-color: #000000;
     font-family: monospace;
-    color: black;
+    color: rgb(255, 255, 255);
     font-size: 15px;
     padding-top: 1px;
     padding-bottom: 1px;
