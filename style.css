@@ -99,3 +99,28 @@ button{
     margin-top: 50px;
     margin-right: -20%;
 }
+.section5{
+    margin-top: 130px;
+    background-color: rgba(238, 130, 238, 0.185);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.get-in{
+    margin-bottom: 30px;
+}
+a{
+    padding: 10px 20px;
+    background-color: purple;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+footer{
+    background-color: #FEDBD7;
+    font-family: monospace;
+    color: black;
+    font-size: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
