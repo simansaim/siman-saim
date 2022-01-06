@@ -4,6 +4,9 @@ body{
 h1{
     font-size: 40px;
 }
+h2{
+    font-size: 35px;
+}
 .title{
     border-left: 2px solid red;
 }
@@ -41,7 +44,7 @@ button{
     width: 40%;
 }
 .section2{
-    margin-top: 150px;
+    margin-top: 130px;
 }
 .mission-padding1{
     margin-left: 10%;
@@ -67,4 +70,32 @@ button{
 .center-title{
     text-align: center;
     margin-bottom: 50px;
+}
+.section3{
+    margin-top: 130px;
+}
+.section3-padding{
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 50%;
+}
+.section3-padding img{
+    width: 80%;
+}
+.margin1{
+    margin-top: 50px;
+    margin-left: -20%;
+}
+.section4-padding{
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 50%;
+}
+.section4-padding img{
+    width: 80%;
+    margin-left: 15%;
+}
+.section4-margin{
+    margin-top: 50px;
+    margin-right: -20%;
 }
